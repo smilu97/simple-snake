@@ -4,6 +4,10 @@
 
 I don't understand why I'm making this shit.
 
+군인인데...
+
+I'm even in military service...
+
 ![solid snake](./statics/snake.jpeg)
 
 ```sh
